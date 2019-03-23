@@ -11,5 +11,5 @@
 <p>Eclipse IDE - ведущая открытая платформа для профессиональных разработчиков.</p>
 <h2>3. Установка пакета русификации Eclipse IDE</h2>
 <p>В последнюю очередь необходимо скачать <b>Пакет русификации Eclipse IDE - Babel Language Packs</b> по этой ссылке:</p>
-<p><a href="https://drive.google.com/open?id=1hGFDsqi7lQMFV4ZMtFLFuQDZ2kcG1Riv">Babel Language Packs для Windows 64 bit и 32 bit</a></p>
+<p><a href="https://drive.google.com/open?id=1hGFDsqi7lQMFV4ZMtFLFuQDZ2kcG1Riv">Babel Language Packs ru для Windows 64 bit и 32 bit</a></p>
 <p>Языковой пакет Babel Language Packs ru переводит интерфейс Eclipse IDE на русский язык.</p>
