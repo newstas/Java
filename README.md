@@ -1,4 +1,4 @@
-<h1>Установка Java для разработчика JDK</h1>
+<h1>Установка инсрументов Java для разработчика</h1>
 <h2>1. Установка Пакет разработчика</h2>
 <p>Для начала необходимо скачать <b>Пакет разработчика Java SE Development Kit 8</b> по этой ссылке:</p>
 <p><a href="https://drive.google.com/open?id=1PnA3jmd8DqLvLv8CjLzpLEnyCJpprZdX">JDK8 для Windows 32 bit</a></p>
