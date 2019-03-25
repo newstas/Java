@@ -13,3 +13,5 @@
 <p>В последнюю очередь необходимо скачать <b>Пакет русификации Eclipse IDE - Babel Language Packs</b> по этой ссылке:</p>
 <p><a href="https://drive.google.com/open?id=1hGFDsqi7lQMFV4ZMtFLFuQDZ2kcG1Riv">Babel Language Packs ru для Windows 64 bit и 32 bit</a></p>
 <p>Языковой пакет Babel Language Packs ru переводит интерфейс Eclipse IDE на русский язык.</p>
+<h1>Внимание!</h1>
+<h2>Задания для второго модуля Java <a href="https://github.com/newstas/Java2">здесь</a></h2>
