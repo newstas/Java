@@ -14,5 +14,5 @@
 <p><a href="https://drive.google.com/open?id=1hGFDsqi7lQMFV4ZMtFLFuQDZ2kcG1Riv">Babel Language Packs ru для Windows 64 bit и 32 bit</a></p>
 <p>Языковой пакет Babel Language Packs ru переводит интерфейс Eclipse IDE на русский язык.</p>
 <h1>Первый модуль Java</h1>
-<h2>Урок №1. Знакомство с языком программирования Java </h2>
-<p>Ознакомится с материалом и набрать исходный код из заданий <a href="https://drive.google.com/open?id=1EC9EvbX3xW2sGaJNW_2EdaHF_V7hyV0c">Графический редактор на Java</a> и запустить программу.</p>
+<h2>Урок №1. Знакомство с языком программирования Java</h2>
+<p>Ознакомится с материалом и набрать исходный код из заданий <a href="https://drive.google.com/open?id=1EC9EvbX3xW2sGaJNW_2EdaHF_V7hyV0c">Урок №1</a> и запустить программу.</p>
