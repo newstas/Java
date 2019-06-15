@@ -27,4 +27,4 @@
 <h2>Урок №6. Основы компьютерной графики языка Java</h2>
 <p>Ознакомится с материалом и набрать исходный код из заданий <a href="https://drive.google.com/open?id=1u7L2fBq8hcUtIzUphgunVlSksj22aIsS">Урок №6</a> и запустить программу.</p>
 <h2>Урок №7</h2>
-<p>Выполнить задание - <a href="https://drive.google.com/open?id=174Fg6SpsUFE71orpLUyoJRV9t-CwWtlV">Урок №7</a>.</p>
+<p>Выполнить задание — <a href="https://drive.google.com/open?id=174Fg6SpsUFE71orpLUyoJRV9t-CwWtlV">Урок №7</a>.</p>
