@@ -28,3 +28,5 @@
 <p>Ознакомится с материалом и набрать исходный код из заданий <a href="https://drive.google.com/open?id=1u7L2fBq8hcUtIzUphgunVlSksj22aIsS">Урок №6</a> и запустить программу.</p>
 <h2>Урок №7</h2>
 <p>Выполнить задание — <a href="https://drive.google.com/open?id=174Fg6SpsUFE71orpLUyoJRV9t-CwWtlV">Урок №7</a>.</p>
+h2>Урок №8</h2>
+<p>Выполнить задание — <a href="https://drive.google.com/open?id=1gwlc0ZYzZ2g6naP66aWSZzjUzykx-EUS">Урок №8</a>.</p>
