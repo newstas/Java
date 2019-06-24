@@ -6,7 +6,7 @@
 <p>JDK - это среда разработки для создания приложений, апплетов и компонентов с использованием языка программирования Java.</p>
 <p>JDK включает в себя инструменты, полезные для разработки и тестирования программ, написанных на языке программирования Java и работающих на платформе Java.</p>
 <p>Старая версия <b>Пакета разработчика для Windows XP</b>:</p>
-<p><a href="https://drive.google.com/open?id=1xsVg0TofL4U8ImS0Kq0dPwqZ7fMy_ywm">JDK8u25</a></p>
+<p><a href="https://drive.google.com/open?id=1xsVg0TofL4U8ImS0Kq0dPwqZ7fMy_ywm">JDK8u25 для Windows XP</a></p>
 <h2>2. Установка cреды разработки - Eclipse IDE</h2>
 <p>Затем необходимо скачать <b>Среду разработки - Eclipse IDE for Java Developers</b> по этой ссылке:</p>
 <p><a href="https://drive.google.com/open?id=12LIp409h-oO6Jqu8wK7pcK4zNcF487ej">Eclipse IDE для Windows 64 bit и 32 bit</a></p>
